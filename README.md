@@ -327,3 +327,5 @@ For questions and support, feel free to join the `#pbot2` channel on the [Freeno
 
 ## License
 PBot is licensed under the [Mozilla Public License, version 2](https://www.mozilla.org/en-US/MPL/2.0/).
+
+**_footer.html**
